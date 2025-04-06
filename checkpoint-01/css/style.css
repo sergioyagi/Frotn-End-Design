@@ -1,0 +1,74 @@
+/**************** NÃO APAGAR ****************/
+@font-face {
+    font-family: Nunito;
+    src: url(../fonts/Nunito-Regular.ttf);
+}
+
+/**************** NÃO APAGAR ****************/
+
+body {
+    font-family: Nunito;
+}
+
+.container-principal {
+  width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.container-titulo {
+  width: 800px;
+  margin: 20px auto;
+}
+
+.container-subtitulo {
+  font-size: 35px;
+  margin: 20px;
+  color: #751E63;
+}
+
+.container-traveller1 {
+  width: 500px;
+  margin: 20px auto;
+  border: 2px solid #515640;
+  box-sizing: border-box;
+  border-radius: 7px;
+  padding: 20px;
+  color: #515640;
+}
+
+.container-traveller2 {
+  width: 500px;
+  margin: 20px auto;
+  border: 2px solid #515640;
+  box-sizing: border-box;
+  border-radius: 7px;
+  padding: 20px;
+  color: #515640;
+}
+
+.container-traveller3 {
+  width: 500px;
+  margin: 20px auto;
+  border: 2px solid #515640;
+  box-sizing: border-box;
+  border-radius: 7px;
+  padding: 20px;
+  color: #515640;
+}
+
+p {
+  margin: 20px 40px;
+  font-size: 15px;
+}
+
+a {
+  color: #544c94;
+  transition: all .7s;
+}
+
+a:hover {
+  color: #741717;
+  text-decoration: none;
+}
